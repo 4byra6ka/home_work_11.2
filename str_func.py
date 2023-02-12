@@ -13,4 +13,4 @@ def py_str_tit(word:str):
     :param word: Строка или слово
     :return: Строка
     """
-    return word.title().strip()
+    return word.title()
